@@ -105,3 +105,4 @@ deploy:
   type: 'git'
   repo: 'https://github.com/cian1203099189/cian1203099189.github.io.git'
   branch: main
+  message: 'Site updated'
